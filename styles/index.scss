@@ -1,0 +1,100 @@
+$footerWidth: 75px;
+$barBaseColor: #202020;
+$width: 800px;
+
+@font-face {
+  font-family: "orokin";
+  src: url("../fonts/orokin2.ttf") format("truetype");
+}
+
+html, body, #contentContainer {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(180deg, gray, lightgray) no-repeat fixed; //linear-gradient(180deg, lightgray, white) no-repeat fixed;
+  font-family: sans-serif;
+}
+
+header {
+  background-color: $barBaseColor;
+  height: 50px;
+  width: 100%;
+  margin: 0;
+  position: relative;
+  top: 0;
+  text-align: center;
+  color: white;
+  z-index: 10;
+}
+
+header > #titleText {
+  display: inline;
+  font-size: 2.8em;
+  position: relative;
+  width: 100%;
+  margin: auto;
+}
+
+footer {
+  clear: both;
+  position: relative;
+  z-index: 10;
+  height: $footerWidth;
+  margin-top: -$footerWidth;
+  background: linear-gradient(180deg, $barBaseColor, #303030);
+
+}
+
+h1 {
+  clear: both;
+}
+
+#contentContainer {
+  height: auto;
+  min-height: 100%;
+
+}
+
+#content {
+  height: auto;
+  min-height: 100%;
+  margin: -100px auto 0;
+  padding: 100px 24px $footerWidth;
+  max-width: $width;
+}
+
+#back {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  max-width: $width;
+  margin: 0 auto 0;
+  padding: 0 24px 0;
+  background: linear-gradient(180deg, whitesmoke, white);
+  z-index: -1;
+
+}
+
+.orokin{
+  font-family: orokin, sans-serif;
+}
+
+.floatLeft {
+  float: left;
+  margin: 0 20px 18px 0;
+}
+
+.floatRight {
+  float: right;
+  margin: 0 0 18px 20px;
+}
+
+#content > img {
+  box-shadow: 0 0 5px 3px #a0a0a0;
+}
+
