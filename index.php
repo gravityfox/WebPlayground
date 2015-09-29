@@ -66,7 +66,7 @@
             repellendus similique ut voluptas.</p>
 
         <img src="images/fox1.png"
-             alt="Thanshuhai - Perfect Blend" class="floatLeft" width="300px" />
+             alt="Thanshuhai - Perfect Blend" class="floatLeft" width="300px"/>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, ad aliquid beatae distinctio
             dolore
@@ -89,7 +89,7 @@
             praesentium sit suscipit voluptatum.</p>
 
         <img src="images/fox2.png"
-             alt="Thanshuhai - 404 Coffee Not Found" class="floatRight" width="350px" />
+             alt="Thanshuhai - 404 Coffee Not Found" class="floatRight" width="350px"/>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores delectus excepturi exercitationem
             fugit,
@@ -111,7 +111,7 @@
             temporibus totam ullam voluptatibus.</p>
 
         <img src="images/fox3.png"
-             alt="Thanshuhai - A Mug of Fluff" width="300" class="floatLeft" />
+             alt="Thanshuhai - A Mug of Fluff" width="300" class="floatLeft"/>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ea iste labore quas quia quos similique
             tenetur vero. Accusamus architecto at consequuntur cumque dolores doloribus eligendi, fuga hic, maxime natus
@@ -120,6 +120,11 @@
             repudiandae voluptate. Architecto atque facilis, ipsa odit placeat quis ullam voluptas. Deserunt ducimus,
             expedita facilis itaque maiores non vero. Ad dignissimos doloribus esse eum fuga illum ipsa ipsum maiores
             maxime necessitatibus nobis nulla numquam quis, rem repellendus unde voluptatem. Earum, vel.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquid dignissimos ducimus et exercitationem
+            expedita ipsum, odit perspiciatis praesentium, quibusdam quidem repudiandae veniam voluptates. Adipisci
+            dolorem et laborum maxime saepe similique suscipit voluptates. Aliquid, animi aperiam at deleniti harum
+            ipsum itaque laboriosam laudantium modi non quidem, rerum. Aperiam, dolor eligendi?</p>
     </div>
 
 </div>
