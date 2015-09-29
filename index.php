@@ -120,11 +120,6 @@
             repudiandae voluptate. Architecto atque facilis, ipsa odit placeat quis ullam voluptas. Deserunt ducimus,
             expedita facilis itaque maiores non vero. Ad dignissimos doloribus esse eum fuga illum ipsa ipsum maiores
             maxime necessitatibus nobis nulla numquam quis, rem repellendus unde voluptatem. Earum, vel.</p>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquid dignissimos ducimus et exercitationem
-            expedita ipsum, odit perspiciatis praesentium, quibusdam quidem repudiandae veniam voluptates. Adipisci
-            dolorem et laborum maxime saepe similique suscipit voluptates. Aliquid, animi aperiam at deleniti harum
-            ipsum itaque laboriosam laudantium modi non quidem, rerum. Aperiam, dolor eligendi?</p>
     </div>
 
 </div>
